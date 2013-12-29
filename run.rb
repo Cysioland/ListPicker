@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-puts "ListPicker v1.0.0dev by Cysioland"
+puts "ListPicker v1.0.0 by Cysioland"
 puts "---------------------------------"
 items = []
 begin
