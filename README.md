@@ -14,11 +14,22 @@ chmod +x ./run.rb
 ```
 
 ## Jak używać?
-To również proste. Wystarczy wpisać
+To również proste.
+
+### Czytanie z klawiatury
+Wystarczy wpisać
 
 ```Shell
 ./run.rb
 ```
 
-A następnie postępować zgodnie z instrukcjami pojawiającymi się na ekranie.
+Potem należy wpisywać kolejne pozycje oddzielone klawiszem [ENTER]. Na koniec należy przycisnąć [ENTER].
 
+### Czytanie z pliku
+Należy wpisać
+
+```Shell
+./run.rb sciezka/do/pliku.txt
+```
+
+Plik musi zawierać kolejne pozycje, oddzielone znakiem końca linii.
